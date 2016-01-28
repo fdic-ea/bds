@@ -1,0 +1,11 @@
+{
+  "name": "app.json",
+  "description": "Describes environment and add-ons required to run open bank app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ]
+}
